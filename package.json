@@ -9,7 +9,7 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "@vuepress/plugin-docsearch": "^2.0.0-alpha.1",
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.27",
     "vue": "^3.2.16"
   },
   "devDependencies": {
